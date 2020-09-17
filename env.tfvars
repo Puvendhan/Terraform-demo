@@ -1,0 +1,7 @@
+#deliverables_aws_account_id = "321311666634"
+#aws_region = "eu-central-1"
+contact_information = "puvendhan14@gmail.com"
+environment = "testing-lambda"
+lambda_function_name = "test-lambda"
+vpc_id = "vpc-0e84bb6970ea0402a"	
+#key_name = "Dynalitesite"
